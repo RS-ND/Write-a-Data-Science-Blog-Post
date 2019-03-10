@@ -3,6 +3,8 @@
 
 Medium post associated with this data:
 
+     https://medium.com/@rstein13g/seattle-and-short-term-rentals-1ab4a67be931
+
      The folium maps mentioned in the story are in the Figures directory
   
 
