@@ -1,7 +1,9 @@
 # Write-a-Data-Science-Blog-Post
-##Udacity DataScience ND: Term 2; Project 1
+### Udacity DataScience ND: Term 2; Project 1
 
 Medium post associated with this data:
+
+     The folium maps mentioned in the story are in the Figures directory
   
 
 Jupyter Notebook (ipynb) \
